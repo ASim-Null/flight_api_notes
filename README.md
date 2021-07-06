@@ -1,5 +1,5 @@
 # flight_api_notes
-CFG Nano Flask Flight App: /n
+CFG Nano Flask Flight App:
 Hey guys. Here are my notes on the recent API lesson. Not sure how useful they are, but they exist. 
 Do share your course notes if you have any, too! 
 
